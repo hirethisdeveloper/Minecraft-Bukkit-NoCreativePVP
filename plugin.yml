@@ -1,0 +1,9 @@
+name: NoCreativePVP
+version: 1.3
+author: floatswitch
+website: http://www.folkmagick.com/
+description: >
+             Disables creative when entering PVP WG regions.
+main: me.folkmagick.NoCreativePVP.NoCreativePVP
+depend: [WorldGuard, WorldEdit]
+softdepend: [Vault]
